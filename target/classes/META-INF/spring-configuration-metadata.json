@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "database",
+      "type": "com.ua.itclusterjava2024.dao.DAOConfig",
+      "sourceType": "com.ua.itclusterjava2024.dao.DAOConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "database.password",
+      "type": "java.lang.String",
+      "sourceType": "com.ua.itclusterjava2024.dao.DAOConfig"
+    },
+    {
+      "name": "database.type",
+      "type": "java.lang.String",
+      "sourceType": "com.ua.itclusterjava2024.dao.DAOConfig"
+    },
+    {
+      "name": "database.url",
+      "type": "java.lang.String",
+      "sourceType": "com.ua.itclusterjava2024.dao.DAOConfig"
+    },
+    {
+      "name": "database.user",
+      "type": "java.lang.String",
+      "sourceType": "com.ua.itclusterjava2024.dao.DAOConfig"
+    }
+  ],
+  "hints": []
+}
